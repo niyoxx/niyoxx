@@ -2,11 +2,12 @@
 
 # Hi, I'm Niyo!
 
+
 **Computer Science Junior @ St. John's University · Full-Stack Engineer · Builder of things that matter in the world**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyontsinziwhite/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://niyoxx.github.io/niyowebsiteport/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyontsinziwhite@email.com)
 
 </div>
 
@@ -16,15 +17,15 @@
 
 I'm a Computer Science junior with a **3.54 GPA** who started college planning to play basketball but fell in love with building software instead. Now I channel that same drive and discipline into building full-stack applications that solve real-world problems.
 
-- 🚀 Founder & full-stack developer of **[Eunoia](https://eunoia-frontend-new.vercel.app/)** — a mental wellness platform with 100+ users
-- 💼 Actively seeking **Summer 2026 Software Engineering Internships**
-- 📚 Currently studying: AI/ML
-- 🎯 Passionate about: Mental health tech, AI-powered applications, and software!
-- 🏀 Fun fact: I almost played college ball before realizing I could code instead
+- Founder & full-stack developer of **[Eunoia](https://eunoia-frontend-new.vercel.app/)** — a mental wellness platform with 100+ users
+- Actively seeking **Summer 2026 Software Engineering Internships**
+- Currently studying: AI/ML
+- Passionate about: Mental health tech, AI-powered applications, and software
+- Fun fact: I almost played college ball before realizing I could code instead
 
 ---
 
-## Tech Stack 🛠
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -63,9 +64,9 @@ I'm a Computer Science junior with a **3.54 GPA** who started college planning t
 
 ---
 
-## Featured Project 
+## Featured Project
 
-### [Eunoia — Mental Wellness Platform](https://github.com)
+### [Eunoia — Mental Wellness Platform](https://eunoia-frontend-new.vercel.app/)
 > A full-stack mental wellness app serving **100+ users**
 
 Built with **React · Spring Boot · PostgreSQL · AWS**
@@ -77,18 +78,9 @@ Built with **React · Spring Boot · PostgreSQL · AWS**
 
 ---
 
-## My Projects 
+## My Projects
 
-### [Fixnex — Personal Finance Tracker](https://github.com)
-> A budgeting tool with visual insights into your spending habits
-
-Built with **React · Spring Boot · PostgreSQL**
-
-- Real-time budget tracking with interactive data visualization
-- Category-based expense management and custom budget goals
-- Clean, responsive UI with modern design patterns
-
-### [Job Application Tracker](https://github.com)
+### [Job Application Tracker](https://github.com/niyoxx/job-tracker)
 > Stay on top of your job search — from first apply to final offer
 
 Built with **React.js · Express.js · Node.js**
@@ -97,13 +89,40 @@ Built with **React.js · Express.js · Node.js**
 - Track application status through every stage — Applied, Phone Screen, Interview, Offer, Rejected
 - Clean dashboard to manage and filter all your internship and job applications in one place
 
+### [Fixnex — Personal Finance Tracker](https://github.com/niyoxx/fixnex-frontend)
+> A budgeting tool with visual insights into your spending habits
+
+Built with **React · Spring Boot · PostgreSQL**
+
+- Real-time budget tracking with interactive data visualization
+- Category-based expense management and custom budget goals
+- Clean, responsive UI with modern design patterns
+
 ---
 
-## GitHub Stats 📊
+## Certifications
+
+| Certificate | Issuer | Verify |
+|---|---|---|
+| Introduction to Front-End Development | Meta (Coursera) | [View Certificate](https://www.coursera.org/account/accomplishments/verify/ZKHTMGDVAHNT) |
+| Introduction to Software Engineering | IBM (Coursera) | [View Certificate](https://www.coursera.org/account/accomplishments/verify/V139PKO8VN5S) |
+
+---
+
+## Currently Learning
+
+- Data Structures & Algorithms — Linked Lists, Binary Trees, Two-pointer patterns
+- Multivariable Calculus & Linear Algebra
+- Operating Systems — CPU Scheduling Algorithms
+- Advanced Database Design with SQL
+- Cloud architecture and scalable system design
+
+---
+
+## GitHub Stats 
 
 <div align="center">
 
-<!-- GitHub Stats via github-stats.com (more stable) -->
 ![Niyo's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niyoxx&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=niyoxx&theme=tokyonight&hide_border=true)
@@ -112,13 +131,12 @@ Built with **React.js · Express.js · Node.js**
 
 ---
 
-## Currently Learning 📖
+## Quick Fun Facts
 
-- 🌳 Data Structures & Algorithms (Linked Lists, Binary Trees, Two-pointer patterns)
-- 🧮 Multivariable Calculus & Linear Algebra
-- ⚙️ Operating Systems — CPU Scheduling Algorithms
-- 🗄️ Advanced Database Design with SQL
-- ☁️ Cloud architecture and scalable system design
+- I'm a huge sports fan, I really like watching the Patriots, Liverpool in the EPL, and the Golden State Warriors. 
+- I play basketball myself and almost walked on at the college level
+- I'm really into fashion as I try to be the best dressed! 
+- Oldest of 4 siblings, so leading comes naturally on the court and in the codebase
 
 ---
 
@@ -129,7 +147,3 @@ Built with **React.js · Express.js · Node.js**
 ![Visitor Count](https://komarev.com/ghpvc/?username=niyoxx&color=blueviolet&style=flat-square)
 
 </div>
-
-![Niyos GitHub stats](https://github-readme-stats.vercel.app/api?username=niyoxx&show_icons=true&theme=gruvbox)-->
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=niyoxx&theme=gruvbox&border_radius=4.5) -->
