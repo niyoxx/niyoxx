@@ -136,7 +136,7 @@ Built with **React · Spring Boot · PostgreSQL**
 - I'm a huge sports fan, I really like watching the Patriots, Liverpool in the EPL, and the Golden State Warriors. 
 - I play basketball myself and almost walked on at the college level
 - I'm really into fashion as I try to be the best dressed! 
-- Oldest of 4 siblings, so leading comes naturally on the court and in the codebase
+- Oldest of 4 siblings
 
 ---
 
