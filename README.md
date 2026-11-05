@@ -3,11 +3,11 @@
 # Hi, I'm Niyo!
 
 
-**Computer Science Junior @ St. John's University · Full-Stack Engineer · Builder of things that matter in the world**
+**Computer Science Senior @ St. John's University · Software Engineer · Builder of things that matter in the world**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyontsinziwhite/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://niyoxx.github.io/niyowebsiteport/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyontsinziwhite@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niyontsinziwhite@gmail.com)
 
 </div>
 
@@ -15,13 +15,24 @@
 
 ## About Me
 
-I'm a Computer Science junior with a **3.54 GPA** who started college planning to play basketball but fell in love with building software instead. Now I channel that same drive and discipline into building full-stack applications that solve real-world problems.
+I'm a Computer Science senior with a **3.54 GPA** in St. John's accelerated B.S./M.S. program. I started college planning to play basketball but fell in love with building software instead. Now I channel that same drive and discipline into building full-stack applications and machine learning projects that solve real-world problems.
 
-- Founder & full-stack developer of **[Eunoia](https://eunoia-frontend-new.vercel.app/)** — a mental wellness platform with 100+ users
-- Actively seeking **Summer 2026 Software Engineering Internships**
-- Currently studying: AI/ML
+- Software Engineer Intern at **Ensora Health** (Summer 2026), migrating legacy Backbone.js/jQuery pages to React in a .NET/ASP.NET MVC stack
+- Founder & full-stack developer of **[Eunoia](https://eunoia-frontend-new.vercel.app/)**, a mental wellness platform with 100+ users
+- Currently studying: AI/ML (graduate coursework)
+- Actively seeking **full-time Software Engineering roles after graduating in May 2027**
 - Passionate about: Mental health tech, AI-powered applications, and software
 - Fun fact: I almost played college ball before realizing I could code instead
+
+---
+
+## Experience
+
+**Software Engineer Intern, Ensora Health** (June 2026 to August 2026)
+
+- Migrated 5+ legacy Backbone.js/jQuery pages (login, signature capture, intake forms, password recovery) to React, building the app's first React/webpack toolchain
+- Built a custom navigation bar component on the company's internal design system, with permission-based routing and live API-driven notification counts
+- Fixed production defects across React, ASP.NET MVC, MongoDB, and the Azure DevOps CI/CD pipeline
 
 ---
 
@@ -31,6 +42,7 @@ I'm a Computer Science junior with a **3.54 GPA** who started college planning t
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,16 +54,25 @@ I'm a Computer Science junior with a **3.54 GPA** who started college planning t
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### Data & Machine Learning
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
@@ -80,6 +101,15 @@ Built with **React · Spring Boot · PostgreSQL · AWS**
 ---
 
 ## My Projects
+
+### [House Price Prediction (Ames Housing)](https://github.com/niyoxx/house-price-prediction)
+> Predicting house sale prices with regression and gradient boosting
+
+Built with **Python · pandas · scikit-learn · Jupyter**
+
+- End-to-end ML pipeline: missing-data handling, ordinal and one-hot encoding, and a log-transformed target
+- Compared 6 models with 5-fold cross-validation; tuned gradient boosting cut error from about 39% (mean baseline) to about 14% on a held-out test set (about $15K average error)
+- Used scikit-learn Pipelines to prevent data leakage, and analyzed where the model fails
 
 ### [Job Application Tracker](https://github.com/niyoxx/job-tracker)
 > Stay on top of your job search — from first apply to final offer
@@ -112,11 +142,10 @@ Built with **React · Spring Boot · PostgreSQL**
 
 ## Currently Learning
 
-- Data Structures & Algorithms — Linked Lists, Binary Trees, Two-pointer patterns
-- Multivariable Calculus & Linear Algebra
-- Operating Systems — CPU Scheduling Algorithms
-- Advanced Database Design with SQL
+- Machine learning — classification, regression, and model evaluation with scikit-learn
+- Data Structures & Algorithms — interview prep
 - Cloud architecture and scalable system design
+- Advanced Database Design with SQL
 
 ---
 
@@ -143,7 +172,7 @@ Built with **React · Spring Boot · PostgreSQL**
 
 <div align="center">
 
-**Open to internship opportunities for Summer 2026 — let's build something great together.**
+**Open to full-time Software Engineering opportunities starting 2027 — let's build something great together.**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=niyoxx&color=blueviolet&style=flat-square)
 
