@@ -58,6 +58,8 @@ I'm a Computer Science senior with a **3.54 GPA** in St. John's accelerated B.S.
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ### Data & Machine Learning
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -101,6 +103,16 @@ Built with **React · Spring Boot · PostgreSQL · AWS**
 ---
 
 ## My Projects
+
+### [Scam Shield — Scam Text Detector](https://github.com/niyoxx/scam-shield)
+> Flags scam and phishing texts and explains in plain English why a message looks risky. Built to help protect my parents.
+ 
+Built with **Python · scikit-learn · FastAPI · React**
+ 
+- Trained a class-weighted logistic regression on TF-IDF features that catches 92% of scams on a held-out test set (about 84% precision), versus 63% for a Naive Bayes baseline
+- Picked the decision threshold from out-of-fold training predictions with a rule written before touching the test set, since a missed scam costs more than a false alarm
+- Added rule-based flags and top-contributing words to explain each verdict, served through a FastAPI endpoint with a React frontend (runs locally, not deployed yet)
+- Documented limitations honestly, including old 2000s SMS training data that under-represents modern scams
 
 ### [House Price Prediction (Ames Housing)](https://github.com/niyoxx/house-price-prediction)
 > Predicting house sale prices with regression and gradient boosting
